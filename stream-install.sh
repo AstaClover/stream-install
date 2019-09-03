@@ -4,7 +4,7 @@ CONFIG_FILE='streamitcoin.conf'
 CONFIGFOLDER='/root/.streamitcoin'
 COIN_DAEMON='/usr/local/bin/streamitcoind'
 COIN_CLI='/usr/local/bin/streamitcoin-cli'
-COIN_REPO='https://github.com/StreamitCoin/StreamitCoin/releases/download/v1.0.0.0/streamitcoin-1.0.0-x86_64-linux-gnu.tar.gz'
+COIN_REPO='https://github.com/StreamitCoin/StreamitCoin/releases/download/v1.0.1.0/streamitcoin-1.0.1-x86_64-linux-gnu.tar.gz'
 COIN_NAME='StreamitCoin'
 COIN_PORT=63636
 
