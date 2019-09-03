@@ -9,7 +9,6 @@ cd stream-install
 bash stream-install.sh
 ```
 ***
-***
 ## Update wallet to latest version:
 ```
 cd ~/stream-install/
