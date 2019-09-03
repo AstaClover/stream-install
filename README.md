@@ -2,14 +2,21 @@
 Shell script to install a [StreamitCoin Masternode](http://www.streamitcoin.com/) on a Linux server running Ubuntu 14.04, 16.04 or 18.04. Use it on your own risk.
 
 ***
-## Installation:
+## Installation wallet (latest version):
 ```
 git clone https://github.com/StreamitCoin/stream-install/
 cd stream-install
 bash stream-install.sh
 ```
 ***
-
+***
+## Update wallet to latest version:
+```
+cd ~/stream-install/
+git pull
+bash stream-update.sh
+```
+***
 ## Desktop wallet setup
 
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
